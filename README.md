@@ -15,8 +15,11 @@
 | SSD4 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  Win |
 | Case |  Ghost S1 - MK2 (Ash)  |   |
 ---
+### OS
+> MacOS BigSur 11.2.3
+---
 ### BIOS
-BIOS VERSION : 4.40C
+> BIOS VERSION : 4.40C
 * Advanced → Chipset Configuration → Vt-d : Disabled
 * Advanced → Super IO Configuration → Serial Port: Disabled
 * Advanced → USB Configuration → XHCI Hand-off : Enabled
