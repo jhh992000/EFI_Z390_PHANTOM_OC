@@ -2,7 +2,7 @@
 
 ### Hardware
 | 구분 | 모델명 | 기타 |
-|:----:|:------:|:-----:|
+|:----:|:------|:-----:|
 | CPU | Intel i9-9900 |   |
 | Motherboard | ASRock Z390 phantom gaming-itx/ac |   |
 | Memory | Samsung DDR4 3200 32GB |   |
