@@ -43,5 +43,4 @@
 ![IMG_0556](https://user-images.githubusercontent.com/67728580/128796252-58d3717e-8fd2-49b2-916b-2d472fd42190.JPG)
 ![IMG_0557](https://user-images.githubusercontent.com/67728580/128796263-0919bf08-6cb0-4288-ace3-e50d1f43436d.JPG)
 ![IMG_0558](https://user-images.githubusercontent.com/67728580/128796269-d6637b44-e7f1-4742-a53b-3cee1bcd36ee.JPG)
-![IMG_0559](https://tva1.sinaimg.cn/large/008i3skNgy1gtbgowj40sj31900u0jze.jpg)
 ![IMG_0560](https://user-images.githubusercontent.com/67728580/128796276-79a9290e-2ce9-4e71-8a89-e1025a942248.JPG)
