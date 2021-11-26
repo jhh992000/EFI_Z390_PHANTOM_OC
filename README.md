@@ -16,7 +16,7 @@
 | Case |  Ghost S1 - MK2 (Ash)  |   |
 ---
 ### OS
-> MacOS BigSur 11.2.3
+> MacOS Monterey 12.0.1
 ---
 ### BIOS
 > BIOS VERSION : 4.40C
@@ -25,6 +25,10 @@
 * Advanced → USB Configuration → XHCI Hand-off : Enabled
 * Advanced → Chipset Configuration → Share Memory : 128MB
 * Advanced → Chipset Configuration → IGPU Multi-Monitor : Enabled
+---
+### OpenCore
+> Version 0.7.5
+
 ---
 ### What Works
 * Airdrop
