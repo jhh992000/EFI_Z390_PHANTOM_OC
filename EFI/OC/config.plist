@@ -703,7 +703,7 @@ GPRW to XPRW</string>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\GoldenGate</string>
+			<string>Acidanthera\x86</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -782,10 +782,6 @@ GPRW to XPRW</string>
 				<data>
 				AAAAAA==
 				</data>
-				<key>UIScale</key>
-				<data>
-				AQ==
-				</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -799,7 +795,6 @@ GPRW to XPRW</string>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
 				<data>
-				EA==
 				</data>
 				<key>boot-args</key>
 				<string>agdpmod=pikera keepsyms=1 igfxmetal=1 igfxfw=2 alcid=7</string>
@@ -1052,6 +1047,8 @@ GPRW to XPRW</string>
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<true/>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -1062,6 +1059,8 @@ GPRW to XPRW</string>
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UIScale</key>
+			<integer>0</integer>
 			<key>UgaPassThrough</key>
 			<false/>
 		</dict>
@@ -1112,6 +1111,8 @@ GPRW to XPRW</string>
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
