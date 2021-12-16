@@ -26,7 +26,7 @@
 * Advanced → Chipset Configuration → IGPU Multi-Monitor : Enabled
 ---
 ### OpenCore
-> Version 0.7.5
+> Version 0.7.6
 
 ---
 ### What Works
