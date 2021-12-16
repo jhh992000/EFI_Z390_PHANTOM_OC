@@ -39,7 +39,6 @@
 * Ethernet
 * Sleep
 * Shutdown
-* Front Panel USB-C
 ---
 ### Do Not Works
 * Thunderbolt 3
