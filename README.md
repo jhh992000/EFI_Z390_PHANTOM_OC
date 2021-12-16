@@ -5,7 +5,7 @@
 |:----:|:------|:-----:|
 | CPU | Intel i9-9900 |   |
 | Motherboard | ASRock Z390 phantom gaming-itx/ac |   |
-| Memory | Samsung DDR4 3200 32GB |   |
+| Memory | Samsung DDR4 3200 16GB x2 (32GB) |   |
 | WIFI/BT | BCM94360CS2 + M.2 NGFF Adapter |   |
 | GRAPHIC | SAPPHIRE RX580 NITRO+ OC D5 8GB Dual-X |   |
 | Power | Corsair SF750 |   |
@@ -13,7 +13,9 @@
 | SSD2 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  mac-data |
 | SSD3 |  SamsungWD Black NVMe WDS500G2X0C (512GB)  | windows11  |
 | SSD4 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  windows-data |
-| Case |  Ghost S1 - MK2 (Ash)  |   |
+| Case |  Ghost S1 - MK2 (Ash) + small tophat  |   |
+| CPU Cooler |  Noctua NH-L12 Ghost S1 Edition |   |
+| Case Cooler |  Noctua NF-A12x15 (x2) |   |
 ---
 ### OS
 > MacOS Monterey 12.0.1
