@@ -3,7 +3,7 @@
 ### Hardware
 | type | model | etc |
 |:----:|:------|:-----:|
-| CPU | Intel i9-9900 |   |
+| CPU | Intel i9-9900 (non-K) |   |
 | Motherboard | ASRock Z390 phantom gaming-itx/ac |   |
 | Memory | Samsung DDR4 3200 16GB x2 (32GB) |   |
 | WIFI/BT | BCM94360CS2 + M.2 NGFF Adapter |   |
