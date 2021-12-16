@@ -9,7 +9,7 @@
 | WIFI/BT | BCM94360CS2 + M.2 NGFF Adapter |   |
 | GRAPHIC | SAPPHIRE RX580 NITRO+ OC D5 8GB Dual-X |   |
 | Power | Corsair SF750 |   |
-| SSD1 |  Samsung 970 EVO Plus M.2 2280 (1TB)  | macOS  |
+| SSD1 |  Samsung 970 EVO Plus M.2 2280 (1TB)  | macOS (monteray)  |
 | SSD2 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  mac-data |
 | SSD3 |  SamsungWD Black NVMe WDS500G2X0C (512GB)  | windows11  |
 | SSD4 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  windows-data |
