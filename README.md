@@ -1,51 +1,70 @@
 # EFI_Z390_PHANTOM_OC
 
 ### Hardware
-| type | model | etc |
-|:----:|:------|:-----:|
-| CPU | Intel i9-9900 (non-K) |   |
-| Motherboard | ASRock Z390 phantom gaming-itx/ac |   |
-| Memory | Samsung DDR4 3200 32GB x2 (64GB) |   |
-| WIFI/BT | BCM94360CS2 + M.2 NGFF Adapter |   |
-| GRAPHIC | SAPPHIRE RX580 NITRO+ OC D5 8GB Dual-X |   |
-| Power | Corsair SF750 |   |
-| SSD1 |  Seagate Firecuda 530 M.2 NVMe (1TB)  | macOS (monteray)  |
-| SSD2 |  Samsung 970 EVO Plus M.2 2280 (1TB)  |  windows10 |
-| SSD3 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  | mac-data  |
-| SSD4 |  Crucial MX500 500GB SSD CT500MX500SSD1 (512GB)  |  win-data |
-| Case |  Ghost S1 - MK2 (Ash) + small tophat  |   |
-| CPU Cooler |  Noctua NH-L12 Ghost S1 Edition |   |
-| Case Cooler |  Noctua NF-A12x15 (x2) |   |
----
-### OS
-> MacOS Monterey 12.0.1
----
-### BIOS
-> BIOS VERSION : 4.40C
-* Advanced → Chipset Configuration → Vt-d : Disabled
-* Advanced → USB Configuration → XHCI Hand-off : Enabled
-* Advanced → Chipset Configuration → Share Memory : 128MB
-* Advanced → Chipset Configuration → IGPU Multi-Monitor : Enabled
----
-### OpenCore
-> Version 0.7.6
+
+|    type     | model                                          |       etc        |
+| :---------: | :--------------------------------------------- | :--------------: |
+|     CPU     | Intel i9-9900 (non-K)                          |                  |
+| Motherboard | ASRock Z390 phantom gaming-itx/ac              |                  |
+|   Memory    | Samsung DDR4 3200 32GB x2 (64GB)               |                  |
+|   WIFI/BT   | BCM94360CS2 + M.2 NGFF Adapter                 |                  |
+|   GRAPHIC   | SAPPHIRE RX580 NITRO+ OC D5 8GB Dual-X         |                  |
+|    Power    | Corsair SF750                                  |                  |
+|    SSD1     | Seagate Firecuda 530 M.2 NVMe (1TB)            | macOS (monteray) |
+|    SSD2     | Samsung 970 EVO Plus M.2 2280 (1TB)            |    windows10     |
+|    SSD3     | Crucial MX500 500GB SSD CT500MX500SSD1 (512GB) |     mac-data     |
+|    SSD4     | Crucial MX500 500GB SSD CT500MX500SSD1 (512GB) |     win-data     |
+|    Case     | Ghost S1 - MK2 (Ash) + small tophat            |                  |
+| CPU Cooler  | Noctua NH-L12 Ghost S1 Edition                 |                  |
+| Case Cooler | Noctua NF-A12x15 (x2)                          |                  |
 
 ---
+
+### OS
+
+> MacOS Monterey 12.3.1
+
+---
+
+### BIOS
+
+> BIOS VERSION : 4.40C
+
+- Advanced → Chipset Configuration → Vt-d : Disabled
+- Advanced → USB Configuration → XHCI Hand-off : Enabled
+- Advanced → Chipset Configuration → Share Memory : 128MB
+- Advanced → Chipset Configuration → IGPU Multi-Monitor : Enabled
+
+---
+
+### OpenCore
+
+> Version 0.8.0
+
+---
+
 ### What Works
-* Airdrop
-* Audio
-* USB 3.0 Speeds
-* iMessage
-* Bluetooth
-* Wi-Fi (2.4 and 5ghz)
-* Ethernet
-* Sleep
-* Shutdown
+
+- Airdrop
+- Audio
+- USB 3.0 Speeds
+- iMessage
+- Bluetooth
+- Wi-Fi (2.4 and 5ghz)
+- Ethernet
+- Sleep
+- Shutdown
+
 ---
+
 ### Do Not Works
-* Thunderbolt 3
+
+- Thunderbolt 3
+
 ---
+
 ### Photos
+
 ![IMG_0556](https://user-images.githubusercontent.com/67728580/128796252-58d3717e-8fd2-49b2-916b-2d472fd42190.JPG)
 ![IMG_0557](https://user-images.githubusercontent.com/67728580/128796263-0919bf08-6cb0-4288-ace3-e50d1f43436d.JPG)
 ![IMG_0558](https://user-images.githubusercontent.com/67728580/128796269-d6637b44-e7f1-4742-a53b-3cee1bcd36ee.JPG)
