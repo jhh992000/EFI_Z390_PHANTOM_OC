@@ -22,7 +22,7 @@
 
 ### OS
 
-> MacOS Monterey 12.3.1
+> MacOS Monterey 12.5
 
 ---
 
